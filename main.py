@@ -2,5 +2,5 @@ a = int(input("enter first number: "))
 b = int(input("enter second number: "))
 
 sum = a + b
-print("Akshi the answer is:")
+print("On Friday, the answer is:")
 print(sum)
